@@ -12,4 +12,4 @@ Dependency Injection is a design pattern that moves the creation and the binding
 
 In the example, I used TypeScript's built-in decorators to register classes in the container and I also used reflection-metadata to bind the classes' metadata to the decorators.  
 
-<sup id="footnote1">[1]()</sup>for active record, there is [TypeOrm](https://github.com/typeorm/typeorm), [Odin](https://github.com/foxifyjs/odin), and for dependency injection, there is [TSyringe](https://github.com/microsoft/tsyringe) and [InversifyJS](https://github.com/inversify/InversifyJS) [↩](#note1)
+<sup id="footnote1">[1](#note1)</sup>for active record, there is [TypeOrm](https://github.com/typeorm/typeorm), [Odin](https://github.com/foxifyjs/odin), and for dependency injection, there is [TSyringe](https://github.com/microsoft/tsyringe) and [InversifyJS](https://github.com/inversify/InversifyJS)
